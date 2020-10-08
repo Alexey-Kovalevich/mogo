@@ -1,1 +1,1 @@
-[mogo](https://github.com/Alexey-Kovalevich/mogo)
+**[Mogo website desktop version](https://alexey-kovalevich.github.io/mogo/)**
